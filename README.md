@@ -26,8 +26,8 @@ This repository demonstrates work completed during my internship at MKC Infrastr
 - `docs/`: Project documentation and example reports.
   
 ## Result  
-Achieved a 25% reduction in operational time and improved forecasting accuracy.
-Enabled better decision-making with quality-validated data and automated workflows.
+- Achieved a 25% reduction in operational time and improved forecasting accuracy.
+- Enabled better decision-making with quality-validated data and automated workflows.
 
 ## Usage
 1. Clone the repository:
